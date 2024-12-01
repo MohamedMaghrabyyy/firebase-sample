@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "105185587117",
+    "project_id": "lab-practice-4-143c2",
+    "storage_bucket": "lab-practice-4-143c2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105185587117:android:b3f6c8b37ce430afbfbb24",
+        "android_client_info": {
+          "package_name": "com.example.lab_practice_4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX9yieabpMoE8Dyowkb6k1WuoJtD0deAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105185587117:android:ab556642edfeb88cbfbb24",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX9yieabpMoE8Dyowkb6k1WuoJtD0deAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
